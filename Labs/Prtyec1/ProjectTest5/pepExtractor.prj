@@ -1,0 +1,5 @@
+work	"clock_enable.vhd"
+work	"down_counter.vhd"
+work	"encoder_ky040.vhd"
+work	"hex_to_7seg.vhd"
+work	"top.vhd"
