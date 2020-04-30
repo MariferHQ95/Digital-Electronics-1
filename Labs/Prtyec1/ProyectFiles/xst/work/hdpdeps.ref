@@ -1,0 +1,37 @@
+V3 19
+FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/binary_cnt.vhd 2020/04/30.22:35:34 P.20131013
+EN work/binary_cnt 1588280094 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/binary_cnt.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/binary_cnt/Behavioral 1588280095 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/binary_cnt.vhd \
+      EN work/binary_cnt 1588280094
+FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/clock_enable.vhd 2020/03/05.05:44:04 P.20131013
+EN work/clock_enable 1588280090 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/clock_enable.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/clock_enable/Behavioral 1588280091 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/clock_enable.vhd \
+      EN work/clock_enable 1588280090
+FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/hex_to_7seg.vhd 2020/03/05.05:44:06 P.20131013
+EN work/hex_to_7seg 1588280096 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/hex_to_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/hex_to_7seg/Behavioral 1588280097 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/hex_to_7seg.vhd \
+      EN work/hex_to_7seg 1588280096
+FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/QDEC.vhd 2020/04/30.22:35:34 P.20131013
+EN work/QDEC 1588280092 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/QDEC.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/QDEC/Structure 1588280093 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/QDEC.vhd \
+      EN work/QDEC 1588280092
+FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/top.vhd 2020/04/30.22:26:15 P.20131013
+EN work/top 1588278386 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/top.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/top/Behavioral 1588278387 \
+      FL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/top.vhd \
+      EN work/top 1588278386 CP work/clock_enable CP work/QDEC CP work/binary_cnt \
+      CP work/hex_to_7seg

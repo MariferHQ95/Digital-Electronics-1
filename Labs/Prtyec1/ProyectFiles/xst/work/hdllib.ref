@@ -1,0 +1,10 @@
+EN binary_cnt NULL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/binary_cnt.vhd sub00/vhpl02 1588280094
+EN hex_to_7seg NULL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/hex_to_7seg.vhd sub00/vhpl05 1588280096
+EN qdec NULL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/QDEC.vhd sub00/vhpl08 1588280092
+AR binary_cnt behavioral C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/binary_cnt.vhd sub00/vhpl03 1588280095
+EN top NULL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/top.vhd sub00/vhpl04 1588278386
+AR clock_enable behavioral C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/clock_enable.vhd sub00/vhpl01 1588280091
+AR qdec structure C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/QDEC.vhd sub00/vhpl09 1588280093
+AR hex_to_7seg behavioral C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/hex_to_7seg.vhd sub00/vhpl06 1588280097
+EN clock_enable NULL C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/clock_enable.vhd sub00/vhpl00 1588280090
+AR top behavioral C:/Users/MariferHQ/Desktop/2D/Labs/Prtyec1/ProyectFiles/top.vhd sub00/vhpl07 1588279000
