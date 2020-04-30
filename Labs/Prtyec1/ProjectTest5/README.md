@@ -6,14 +6,14 @@ The set value mentioned before will be given by a periferic component which will
 
 All the mentioned before would be possible thanks to the modules developed in previous practices such as clock_enable, binary_counter, and others.
 
-### Rotatory Encoder KY-040
+### Rotary Encoder KY-040
 
 The KY-040 rotary encoder is a rotary input device (as in knob) that provides an indication of how much the knob has been rotated AND what direction it is rotating in. It’s a great device for stepper and servo motor control. You could also use it to control devices like digital potentiometers.
 
 A rotary encoder has a fixed number of positions per revolution. These positions are easily felt as small “clicks” you turn the encoder. The KY-040 module has thirty of these positions. On one side of the switch there are three pins. They are normally referred to as A, B and C. In the case of the KY-040, they are oriented as shown. Inside the encoder there are two switches. Once switch connects pin A to pin C and the other switch connects pin B to C.
 
-[![Rotatory Encoder KY-040](https://http2.mlstatic.com/rotary-encoder-rotativo-ky-040-20-pasos-por-vuelta-arduino-D_NQ_NP_908324-MLA31076716097_062019-F.jpg "Rotatory Encoder KY-040")](https://http2.mlstatic.com/rotary-encoder-rotativo-ky-040-20-pasos-por-vuelta-arduino-D_NQ_NP_908324-MLA31076716097_062019-F.jpg "Rotatory Encoder KY-040")
->Rotatory Encoder KY-040.
+[![Rotary Encoder KY-040](https://http2.mlstatic.com/rotary-encoder-rotativo-ky-040-20-pasos-por-vuelta-arduino-D_NQ_NP_908324-MLA31076716097_062019-F.jpg "Rotatory Encoder KY-040")](https://http2.mlstatic.com/rotary-encoder-rotativo-ky-040-20-pasos-por-vuelta-arduino-D_NQ_NP_908324-MLA31076716097_062019-F.jpg "Rotatory Encoder KY-040")
+>Rotary Encoder KY-040.
 
 In each encoder position, both switches are either opened or closed. Each click causes these switches to change states as follows: 
 
@@ -53,3 +53,7 @@ The CoolRunnerTM-II Evaulation Board is a complete USB-powered circuit developme
 [![CoolRunner-II CPLD Starter Board.](https://reference.digilentinc.com/_media/reference/programmable-logic/coolrunner-ii/cr2-0.png "CoolRunner-II CPLD Starter Board.")](https://reference.digilentinc.com/_media/reference/programmable-logic/coolrunner-ii/cr2-0.png "CoolRunner-II CPLD Starter Board.")
 >CoolRunner-II CPLD Starter Board.
 
+### References
+- [7-segment display](https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html "7-segment display")
+- [CoolRunner-II Evaluation Board Reference Manual](https://www.xilinx.com/support/documentation/boards_and_kits/ug501.pdf "CoolRunner-II Evaluation Board Reference Manual")
+- [Rotary Encoder KY-040](https://www.handsontec.com/dataspecs/module/Rotary%20Encoder.pdf "Rotary Encoder KY-040")
